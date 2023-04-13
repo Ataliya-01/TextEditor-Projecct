@@ -1,4 +1,4 @@
-# TextEditor-Projecct
+# TextEditor-Project
 
 File menu
 
